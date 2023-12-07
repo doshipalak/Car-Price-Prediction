@@ -1,0 +1,20 @@
+Solution approach
+1. Data understanding and exploring
+2. Data cleaning
+• Handling missing values 
+• Outliers treatment
+3. Exploratory data analysis
+• Univariate analysis
+• Bivariate analysis
+4. Prepare the data for modelling 
+• Check the skewness of the data and mitigate it for fair analysis
+5. Split the data into train and test set
+• Scale the data (normalization)
+6. Model building
+• Train the model with various algorithm such as Logistic regression, SVM, 
+Decision Tree, Random forest etc.
+• Tune the hyperparameters with Grid Search Cross Validation and find the 
+optimal values of the hyperparameters
+7. Model evaluation 
+• As we see that the data is heavily imbalanced, Accuracy may not be the 
+correct measure for this particular case
